@@ -107,7 +107,7 @@ const Footer = () => {
       <div className="mt-8 border-t border-gray-200 pt-6 flex justify-between items-center">
         <div className="text-left text-sm text-gray-600">
           <p>&copy; 2021 - Blogy. Designed & Developed by{" "}
-            <span className="font-semibold text-gray-900">Zakirsoft</span>
+            <span className="font-semibold text-gray-900">Comforty</span>
           </p>
         </div>
 
